@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200">
+<rect width="1800" height="1200" fill="#e2e8ea"/>
+<rect y="850" width="1800" height="350" fill="#c7d1d5"/>
+<rect x="960" y="130" width="500" height="800" fill="#52636e"/>
+<g fill="#dce6e9"><rect x="1010" y="190" width="75" height="110"/><rect x="1175" y="190" width="75" height="110"/><rect x="1340" y="190" width="75" height="110"/><rect x="1010" y="390" width="75" height="110"/><rect x="1175" y="390" width="75" height="110"/><rect x="1340" y="390" width="75" height="110"/><rect x="1010" y="590" width="75" height="110"/><rect x="1175" y="590" width="75" height="110"/><rect x="1340" y="590" width="75" height="110"/></g>
+<circle cx="720" cy="680" r="45" fill="#273847"/><rect x="680" y="725" width="80" height="175" rx="18" fill="#273847"/><line x1="700" y1="780" x2="605" y2="870" stroke="#273847" stroke-width="30"/><line x1="740" y1="780" x2="825" y2="845" stroke="#273847" stroke-width="30"/><line x1="705" y1="895" x2="650" y2="1040" stroke="#273847" stroke-width="35"/><line x1="735" y1="895" x2="790" y2="1040" stroke="#273847" stroke-width="35"/>
+</svg>
